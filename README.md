@@ -1,20 +1,20 @@
 <div align="center">
-<!-- 3D ASCII Banner -->
+<!-- 3D ASCII Banner :) -->
 <pre>
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ███╗ █████╗  ██████╗ ███████╗      ██████╗            ║
-║   ████╗ ████║██╔══██╗██╔════╝ ╚══███╔╝     ██╔═══██╗           ║
-║   ██╔████╔██║███████║██║  ███╗  ███╔╝█████╗██║   ██║           ║
-║   ██║╚██╔╝██║██╔══██║██║   ██║ ███╔╝ ╚════╝██║   ██║           ║
-║   ██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗      ╚██████╔╝           ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝       ╚═════╝            ║
-║                                                                  ║
-║              ⚡ CODE. CREATE. CONQUER. ⚡                         ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║      ███╗   ███╗  █████╗   █████╗  ║███████╗           ║
+║      ████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══ ███╔╝           ║
+║      ██╔████╔██║ ███████║ ███████║    ███╔╝            ║
+║      ██║╚██╔╝██║ ██╔══██║ ██╔══██║   ███╔╝             ║
+║      ██║ ╚═╝ ██║ ██║  ██║ ██║  ██║  ███████╗           ║
+║      ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚══════╝           ║
+║                                                        ║
+║                CODE. CREATE. CONQUER.                  ║
+╚════════════════════════════════════════════════════════╝
 </pre>
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=MAAZ+AHMED;Full-Stack+Architect;AI%2FML+Engineer;Cybersecurity+Enthusiast;Open-Source+Contributor;Hackathon+Warrior;Building+The+Future+Today" alt="Typing Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=MAAZ;Full-Stack+Architect;AI_ML+Engineer;Cybersecurity+Enthusiast;Open-Source+Contributor;Hackathon+Warrior;Building+The+Future+Today" alt="Typing Header" />
 <br/><br/>
 <!-- Matrix-style status badges -->
 <p align="center">
@@ -29,7 +29,7 @@
 <div align="center">
 🧬 SYSTEM DIAGNOSTIC
 diff
-+ Name: Maaz Ahmed
++ Name: Maaz 
 + Alias: maazz0
 + Class: Full-Stack Developer | AI Engineer | Security Researcher
 + Level: 99 (MAX)
@@ -38,62 +38,66 @@ diff
 + Current Streak: 🔥 UNSTOPPABLE
 </div>
 ⚡ CORE COMPETENCIES
+
 <div align="center">
-<!-- Animated skill bars using shields -->
+
 <table>
-  <tr>
-    <td>
-LANGUAGES
-plain
-Python      ████████████████████ 100%
-JavaScript  ███████████████████░  95%
-TypeScript  ██████████████████░░  90%
-C++         ████████████████░░░  80%
-Go          ██████████████░░░░░  70%
-Rust        ████████████░░░░░░░  60%
-Solidity    ██████████░░░░░░░░░  50%
-  </td>
-  <td>
-FRAMEWORKS
-plain
-React/Next  ████████████████████ 100%
-Node.js     ███████████████████░  95%
-FastAPI     ██████████████████░░  90%
-TensorFlow  ████████████████░░░  80%
-PyTorch     ███████████████░░░░  75%
-Flutter     ████████████░░░░░░░  60%
-  </td>
-  </tr>
-  <tr>
-    <td>
-TOOLS & PLATFORMS
-plain
-Docker      ████████████████████ 100%
-AWS/GCP     ███████████████████░  95%
-Kubernetes  █████████████████░░░  85%
-Linux       ████████████████████ 100%
-Git         ████████████████████ 100%
-CI/CD       ██████████████████░░  90%
-  </td>
-  <td>
-SPECIALTY
-plain
-AI/ML       ████████████████████ 100%
-CyberSec    ███████████████████░  95%
-Blockchain  ████████████████░░░░  80%
-DevOps      ██████████████████░░  90%
-Cloud Arch  ███████████████████░  95%
-  </td>
-  </tr>
+<tr>
+<td valign="top">
+
+
+LANGUAGES</br>
+
+████████████████████ 100% Python
+███████████████████░  95% JavaScript
+██████████████████░░  90% TypeScript
+████████████████░░░░  80% C++
+██████████████░░░░░░  70% Go
+████████████░░░░░░░░  60% Rust
+██████████░░░░░░░░░░  50% Solidity
+</td> 
+<td valign="top">
+FRAMEWORKS</br>
+
+████████████████████ 100% React / Next.js
+███████████████████░  95% Node.js
+██████████████████░░  90% FastAPI
+████████████████░░░░  80% TensorFlow
+███████████████░░░░░  75% PyTorch
+████████████░░░░░░░░  60% Flutter
+</td> 
+</tr> 
+<tr>
+<td valign="top">
+TOOLS & PLATFORMS</br>
+
+████████████████████ 100% Docker
+████████████████████ 100% Linux
+████████████████████ 100% Git
+███████████████████░  95% AWS / GCP
+██████████████████░░  90% CI / CD
+█████████████████░░░  85% Kubernetes
+</td> 
+<td valign="top">
+SPECIALTIES</br>
+
+████████████████████ 100% AI / ML
+███████████████████░  95% Cybersecurity
+███████████████████░  95% Cloud Arch
+██████████████████░░  90% DevOps
+████████████████░░░░  80% Blockchain
+</td>
+</tr> 
 </table>
-</div>
+</div> 
+
 🚀 FEATURED PROJECTS
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/maazz0/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=project-1&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
+      <a href="https://github.com/maazz0/auto-tractor-parts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=auto-tractor-parts&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
       </a>
       <br/>
       <p align="center">
@@ -103,8 +107,8 @@ Cloud Arch  ███████████████████░  95%
       </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/maazz0/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=project-2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
+      <a href="https://github.com/maazz0/swift-cargo-cms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=swift-cargo-cms&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
       </a>
       <br/>
       <p align="center">
@@ -114,30 +118,7 @@ Cloud Arch  ███████████████████░  95%
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/maazz0/project-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=project-3&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
-      </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/maazz0/project-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=project-4&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
-      </a>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+  
 </table>
 </div>
 📊 BATTLE STATISTICS
@@ -171,24 +152,24 @@ Cloud Arch  ███████████████████░  95%
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maazz0/maazz0/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-🎯 CURRENT MISSIONS
-diff
-+ 🚀 Building AI-powered SaaS platform
-+ 🔐 Researching zero-knowledge proofs & blockchain security
-+ 🌐 Contributing to open-source ML libraries
-+ 🏆 Preparing for DEF CON & Black Hat competitions
-+ 📚 Mastering Rust & WebAssembly
-+ 🎤 Speaking at tech conferences (next: NULLCON)
-🌐 CONNECT WITH ME
+🎯 CURRENT MISSIONS </br>
+diff </br>
++ 🚀 Building AI-powered SaaS platform </br>
++ 🔐 Researching zero-knowledge proofs & blockchain security </br>
++ 🌐 Contributing to open-source ML libraries</br>
++ 🏆 Preparing for DEF CON & Black Hat competitions</br>
++ 📚 Mastering Rust & WebAssembly</br>
++ 🎤 Speaking at tech conferences (next: NULLCON)</br>
+🌐 CONNECT WITH ME</br>
 <div align="center">
 <p>
-  <a href="https://linkedin.com/in/maaz-ahmed" target="_blank">
+  <a href="https://linkedin.com/in/maaz0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://twitter.com/maazz0" target="_blank">
+  <a href="https://twitter.com/maaznpc" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
   </a>
-  <a href="mailto:maaz.ahmed.dev@gmail.com" target="_blank">
+  <a href="mailto:maaz73200@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
   <a href="https://maazz0.dev" target="_blank">
@@ -197,28 +178,31 @@ diff
   <a href="https://dev.to/maazz0" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" />
   </a>
-  <a href="https://discord.gg/maazz0" target="_blank">
+  <a href="https://discord.gg/maaznpc" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
   </a>
 </p>
 <br/>
 <!-- Spotify Now Playing (optional - replace with your own) -->
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false" alt="Spotify Now Playing" />
+  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=3177hh7waehkd26ocqhhldaq56qm
+&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 <div align="center">
+  
 <!-- Epic footer with particle effect -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,25:00d4ff,50:ff00ff,75:ff6b00,100:00ff41&height=100&section=footer&text=THANKS%20FOR%20VISITING%20!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
-<br/><br/>
+
+  
 <!-- Random quote generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote" />
 <br/><br/>
 <pre>
 ╔════════════════════════════════════════════════════════════════════╗
-║  ⭐ If you found my profile interesting, consider giving a star! ⭐  ║
+║ - If you found my profile interesting, consider giving a star!     ║
 ║                                                                    ║
 ║  "Code is poetry, and I'm writing epics."                          ║
 ║                                                                    ║
-║  - Maaz Ahmed (maazz0)                                             ║
+║  - Maaz (maazz0)                                                   ║
 ╚════════════════════════════════════════════════════════════════════╝
 </pre>
 </div>
