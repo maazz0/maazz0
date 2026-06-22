@@ -1,3 +1,4 @@
+
 <div align="center">
 <!-- 3D ASCII Banner :) -->
 <pre>
@@ -26,16 +27,15 @@
 <!-- Animated wave separator -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff41,50:00d4ff,100:ff00ff&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
 </div>
-<div align="center">
-🧬 SYSTEM DIAGNOSTIC
-diff
-+ Name: Maaz 
-+ Alias: maazz0
-+ Class: Full-Stack Developer | AI Engineer | Security Researcher
-+ Level: 99 (MAX)
-+ Location: Pakistan 🌍
-+ Status: Accepting Challenges
-+ Current Streak: 🔥 UNSTOPPABLE
+<div align="left">
+🧬 SYSTEM DIAGNOSTIC </br>
+ </br>
+-  Name: Maaz  </br>
+-  Class: Full-Stack Developer | AI Engineer | Security Researcher </br>
+-  Level: 99 (MAX) </br>
+-  Location: Pakistan 🌍 </br>
+-  Status: Accepting Challenges </br>
+-  Current Streak: 🔥 UNSTOPPABLE </br>
 </div>
 ⚡ CORE COMPETENCIES
 
@@ -182,12 +182,9 @@ diff </br>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
   </a>
 </p>
-<br/>
-<!-- Spotify Now Playing (optional - replace with your own) -->
   
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=3177hh7waehkd26ocqhhldaq56qm
-&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff41&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
+
 <div align="center">
   
 <!-- Epic footer with particle effect -->
