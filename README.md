@@ -2,28 +2,31 @@
 <div align="center">
 <!-- 3D ASCII Banner :) -->
 <pre>
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║      ███╗   ███╗  █████╗   █████╗  ║███████╗           ║
-║      ████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══ ███╔╝           ║
-║      ██╔████╔██║ ███████║ ███████║    ███╔╝            ║
-║      ██║╚██╔╝██║ ██╔══██║ ██╔══██║   ███╔╝             ║
-║      ██║ ╚═╝ ██║ ██║  ██║ ██║  ██║  ███████╗           ║
-║      ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚══════╝           ║
-║                                                        ║
-║                CODE. CREATE. CONQUER.                  ║
-╚════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════╗
+║                                                         ║
+║       ███╗   ███╗  █████╗   █████╗  ║███████╗           ║
+║       ████╗ ████║ ██╔══██╗ ██╔══██╗ ╚══ ███╔╝           ║
+║       ██╔████╔██║ ███████║ ███████║    ███╔╝            ║
+║       ██║╚██╔╝██║ ██╔══██║ ██╔══██║   ███╔╝             ║
+║       ██║ ╚═╝ ██║ ██║  ██║ ██║  ██║  ███████╗           ║
+║       ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚══════╝           ║
+║                                                         ║
+║                CODE. CREATE. CONQUER.                   ║
+╚═════════════════════════════════════════════════════════╝
 </pre>
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=MAAZ;Full-Stack+Architect;AI_ML+Engineer;Cybersecurity+Enthusiast;Open-Source+Contributor;Hackathon+Warrior;Building+The+Future+Today" alt="Typing Header" />
 <br/><br/>
+  
 <!-- Matrix-style status badges -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-red?style=for-the-badge&logo=fireship&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CURRENT%20MISSION-WORLD%20DOMINATION-purple?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
   <img src="https://komarev.com/ghpvc/?username=maazz0&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
 </p>
+  
 <!-- Animated wave separator -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,react,mongodb,postgresql,git,linux&perline=10" />
@@ -126,7 +129,8 @@ SPECIALTIES</br>
 </div>
 📊 BATTLE STATISTICS
 <div align="center">
-<!-- Trophies with custom theme -->
+  
+<!-- Trophies with custom theme i dont have trophies{ :( } -->
 <img src="https://github-profile-trophy.vercel.app/?username=maazz0&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 <br/><br/>
 <!-- Stats with custom styling -->
@@ -141,9 +145,24 @@ SPECIALTIES</br>
   </tr>
 </table>
 <br/>
+  
+
 <!-- Top Languages with custom -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=10&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
+
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
+  
+</p>  -->
+
+
+
+
+
+
+  
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazz0&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff00ff&area=true&area_color=00ff4120" width="100%" alt="Activity Graph" />
 </div>
