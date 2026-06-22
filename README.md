@@ -25,7 +25,10 @@
   <img src="https://komarev.com/ghpvc/?username=maazz0&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
 </p>
 <!-- Animated wave separator -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff41,50:00d4ff,100:ff00ff&height=150&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,react,mongodb,postgresql,git,linux&perline=10" />
+</p>
+
 </div>
 <div align="left">
 🧬 SYSTEM DIAGNOSTIC </br>
@@ -188,7 +191,9 @@ diff </br>
 <div align="center">
   
 <!-- Epic footer with particle effect -->
-
+  <p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="530"/>
+</p>
   
 <!-- Random quote generator -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote" />
