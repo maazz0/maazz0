@@ -1,6 +1,7 @@
 
 <div align="center">
 <!-- 3D ASCII Banner :) -->
+  
 <pre>
 ╔═════════════════════════════════════════════════════════╗
 ║                                                         ║
@@ -13,6 +14,7 @@
 ║                                                         ║
 ║                CODE. CREATE. CONQUER.                   ║
 ╚═════════════════════════════════════════════════════════╝
+‼️
 </pre>
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=MAAZ;Full-Stack+Architect;AI_ML+Engineer;Cybersecurity+Enthusiast;Open-Source+Contributor;Hackathon+Warrior;Building+The+Future+Today" alt="Typing Header" />
@@ -20,20 +22,21 @@
   
 <!-- Matrix-style status badges -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-red?style=for-the-badge&logo=fireship&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CURRENT%20MISSION-WORLD%20DOMINATION-purple?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
   <img src="https://komarev.com/ghpvc/?username=maazz0&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
-</p>
+</p> -->
   
 <!-- Animated wave separator -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,react,mongodb,postgresql,git,linux&perline=10" />
 </p>
-
 </div>
-<div align="left">
+<!--
+ <div align="left">
 🧬 SYSTEM DIAGNOSTIC </br>
  </br>
 -  Name: Maaz  </br>
@@ -42,7 +45,9 @@
 -  Location: Pakistan 🌍 </br>
 -  Status: Accepting Challenges </br>
 -  Current Streak: 🔥 UNSTOPPABLE </br>
-</div>
+</div> -->
+
+<!--
 ⚡ CORE COMPETENCIES
 
 <div align="center">
@@ -129,11 +134,13 @@ SPECIALTIES</br>
 </div>
 📊 BATTLE STATISTICS
 <div align="center">
-  
+
 <!-- Trophies with custom theme i dont have trophies{ :( } -->
+<!--
 <img src="https://github-profile-trophy.vercel.app/?username=maazz0&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 <br/><br/>
 <!-- Stats with custom styling -->
+<!--
 <table>
   <tr>
     <td>
@@ -148,6 +155,7 @@ SPECIALTIES</br>
   
 
 <!-- Top Languages with custom -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
 
 
@@ -161,11 +169,15 @@ SPECIALTIES</br>
 
 
 
-
   
 <!-- Contribution Graph -->
+<!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maazz0&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff00ff&area=true&area_color=00ff4120" width="100%" alt="Activity Graph" />
+-->
+<!--
 </div>
+-->
+
 🐍 CONTRIBUTION SNAKE
 <div align="center">
   <picture>
@@ -174,6 +186,8 @@ SPECIALTIES</br>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maazz0/maazz0/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<!--
 🎯 CURRENT MISSIONS </br>
 diff </br>
 + 🚀 Building AI-powered SaaS platform </br>
@@ -204,29 +218,31 @@ diff </br>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" />
   </a>
 </p>
-  
+  <--
 </div>
-
+<!--
 <div align="center">
   
 <!-- Epic footer with particle effect -->
+<!--
   <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="530"/>
 </p>
   
 <!-- Random quote generator -->
+<!--
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" alt="Quote" />
 <br/><br/>
 <pre>
-╔════════════════════════════════════════════════════════════════════╗
-║ - If you found my profile interesting, consider giving a star!     ║
-║                                                                    ║
-║  "Code is poetry, and I'm writing epics."                          ║
-║                                                                    ║
-║  - Maaz (maazz0)                                                   ║
-╚════════════════════════════════════════════════════════════════════╝
+-->
+<div align = "center">
+  <pre>
+╔═══════════════════════════════╗
+║       "Code is poetry"        ║
+╚═══════════════════════════════╝
 </pre>
 </div>
+
 
 ---
 
