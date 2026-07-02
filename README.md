@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-red?style=for-the-badge&logo=fireship&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/CURRENT%20MISSION-WORLD%20DOMINATION-purple?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=maazz0&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
+  <img src="https://komarev.com/ghpvc/?username=maaznpc&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&base=1000" />
 </p> -->
   
 <!-- Animated wave separator -->
@@ -107,8 +107,8 @@ SPECIALTIES</br>
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/maazz0/auto-tractor-parts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=auto-tractor-parts&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
+      <a href="https://github.com/maaznpc/auto-tractor-parts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaznpc&repo=auto-tractor-parts&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
       </a>
       <br/>
       <p align="center">
@@ -118,8 +118,8 @@ SPECIALTIES</br>
       </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/maazz0/swift-cargo-cms">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maazz0&repo=swift-cargo-cms&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
+      <a href="https://github.com/maaznpc/swift-cargo-cms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maaznpc&repo=swift-cargo-cms&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff" />
       </a>
       <br/>
       <p align="center">
@@ -137,17 +137,17 @@ SPECIALTIES</br>
 
 <!-- Trophies with custom theme i dont have trophies{ :( } -->
 <!--
-<img src="https://github-profile-trophy.vercel.app/?username=maazz0&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=maaznpc&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 <br/><br/>
 <!-- Stats with custom styling -->
 <!--
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maazz0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff&count_private=true&include_all_commits=true&custom_title=⚡+GITHUB+STATS" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=maaznpc&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff&count_private=true&include_all_commits=true&custom_title=⚡+GITHUB+STATS" height="200" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazz0&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" height="200" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maaznpc&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00d4ff&fire=ff00ff&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" height="200" />
     </td>
   </tr>
 </table>
@@ -156,12 +156,12 @@ SPECIALTIES</br>
 
 <!-- Top Languages with custom -->
 <!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaznpc&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=20&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
 
 
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazz0&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaznpc&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6&custom_title=🧠+LANGUAGE+MATRIX" height="350" />
   
 </p>  -->
 
@@ -172,18 +172,18 @@ SPECIALTIES</br>
   
 <!-- Contribution Graph -->
 <!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maazz0&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff00ff&area=true&area_color=00ff4120" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaznpc&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=ff00ff&area=true&area_color=00ff4120" width="100%" alt="Activity Graph" />
 -->
 <!--
 </div>
 -->
 
-🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maazz0/maazz0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maazz0/maazz0/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maazz0/maazz0/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maaznpc/maaznpc/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maaznpc/maaznpc/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maaznpc/maaznpc/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -208,10 +208,10 @@ diff </br>
   <a href="mailto:maaz73200@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
-  <a href="https://maazz0.dev" target="_blank">
+  <a href="https://maaznpc.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://dev.to/maazz0" target="_blank">
+  <a href="https://dev.to/maaznpc" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" />
   </a>
   <a href="https://discord.gg/maaznpc" target="_blank">
