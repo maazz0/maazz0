@@ -2,11 +2,8 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
-
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -28,7 +25,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.gif?color_snake=lime&color_dots=%230d1f0d,%231a4d1a,%232e8b2e,%234caf50,%237cfc00
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
